@@ -22,17 +22,17 @@ I am a passionate Python Odoo developer with 4 years of experience. My expertise
 - Odoo advanced levels
 
 ### 📫 Contact Me
-- Email: [karim@itss-c.com]
+- Email: [karimaboelazm6@gmail.com]
   
 
 ### 🤝 Let's Connect
 Feel free to reach out! I'm always open to collaborations and discussions on innovative projects.
 
-[![GitHub followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/karim-aboelazm1)
+[![GitHub followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/karim-aboelazm)
 
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-aboelazm1&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-aboelazm&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect
 <p align="center">
